@@ -13,7 +13,7 @@ The main objective of this project is to provide a foundation for studying and u
 - SceneKit
 - Coordinator
 
-(img0.png)
+![viewofapp](img0.png)
 
 # How to Use
 
