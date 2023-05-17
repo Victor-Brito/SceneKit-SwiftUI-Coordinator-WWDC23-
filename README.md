@@ -8,10 +8,10 @@ The main objective of this project is to provide a foundation for studying and u
 
 # Technologies Used
 
-SwiftPM
-SwiftUI
-SceneKit
-Coordinator
+- SwiftPM
+- SwiftUI
+- SceneKit
+- Coordinator
 
 # How to Use
 
