@@ -1,0 +1,33 @@
+//
+//  RudderInfoView.swift
+//  
+//
+//  Created by Victor Brito on 29/03/23.
+//
+import SwiftUI
+
+struct RudderInfoView: View {
+    var body: some View {
+        ZStack{
+            Color.sheetColor
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .ignoresSafeArea()
+            ZStack{
+                RudderInfoButton()
+                    .padding(.leading, 700)
+                    .padding(.top, 120)
+                VStack{
+                    Spacer()
+                    Text("Rudder")
+                        .font(.system(size: 25, weight: .bold))
+                        .foregroundColor(.black)
+                    Text(TextInfos.rudder.rawValue)
+                        .frame(width: 500, height: 300)
+                        .font(.system(size: 25))
+                        .foregroundColor(.black)
+                    Spacer()
+                }
+            }
+        }
+    }
+}
