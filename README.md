@@ -1,4 +1,4 @@
-# WWDC 23 Swift Student Challenge - SwiftUI Project with SceneKit and Coordinator Pattern
+# WWDC 23 Swift Student Challenge - SwiftUI Project with SceneKit and Coordinator
 
 Welcome to my project for the WWDC 23 Swift Student Challenge! This is a project developed in SwiftPM, which I took as an opportunity to study and implement the use of SceneKit together with SwiftUI, as well as explore the Coordinator design pattern.
 
